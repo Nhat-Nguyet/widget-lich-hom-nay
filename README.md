@@ -1,3 +1,5 @@
+> **Kho này đã chuyển.** Widget này nay nằm ở [nhatnguyet-widgets/lich-hom-nay](https://github.com/Nhat-Nguyet/nhatnguyet-widgets/tree/main/lich-hom-nay), cùng 13 widget khác. Kho này chỉ còn để lưu trữ.
+
 # Lịch hôm nay
 
 Ngày dương, ngày âm, can chi và tiết khí. Tự đổi mỗi ngày, không cần ai đụng tới.

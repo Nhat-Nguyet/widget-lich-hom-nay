@@ -1,3 +1,5 @@
+> **This repository has moved.** This widget now lives in [nhatnguyet-widgets/lich-hom-nay](https://github.com/Nhat-Nguyet/nhatnguyet-widgets/tree/main/lich-hom-nay), together with the other 13 widgets. This repository is archived.
+
 # Today's lunar date
 
 Solar date, lunar date, sexagenary day and solar term. It turns over daily on its own.
